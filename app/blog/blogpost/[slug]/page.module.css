@@ -1,0 +1,22 @@
+.main {
+    padding: 1rem 18rem;
+    min-height: 90vh;
+}
+
+.main>* {
+    margin-top: 2rem;
+}
+
+.blogtitle {
+    text-align: center;
+}
+
+.divider {
+    border: none;
+    border-bottom: solid #e5e7eb .1em !important;
+    opacity: 50%;
+}
+
+.main p {
+    white-space: pre-wrap;
+}

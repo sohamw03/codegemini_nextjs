@@ -1,0 +1,5 @@
+{
+    "title": "Building Scalable Web Applications with Java",
+    "content": "Java remains a stalwart in the world of software development, particularly in building scalable web applications. In this comprehensive guide, we'll dive into the world of Java web development and explore how to create robust, high-performance applications.\n\nWe'll start with the fundamentals of Java, including object-oriented programming and the Java Virtual Machine (JVM). Then, we'll move on to web application development using Java frameworks like Spring and Hibernate.\n\nYou'll learn about database connectivity, RESTful APIs, and the principles of microservices architecture. We'll also discuss cloud deployment and containerization with technologies like Docker and Kubernetes.\n\nWhether you're a seasoned Java developer or new to the language, this guide will equip you with the knowledge and tools to build scalable and reliable web applications.",
+    "author": "Soham"
+}

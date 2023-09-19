@@ -1,0 +1,5 @@
+{
+    "title": "Mastering React: Building Modern Web Apps",
+    "content": "React has revolutionized front-end web development with its component-based architecture and reactivity. In this extensive tutorial, we'll take a deep dive into React and explore how to build modern web applications with this powerful library.\n\nWe'll start by understanding the core concepts of React, such as components, props, and state. You'll learn how to create dynamic user interfaces with React's declarative approach.\n\nWe'll also explore advanced topics like routing with React Router, state management with Redux, and server-side rendering with Next.js. Additionally, you'll discover the best practices for testing React applications.\n\nThroughout the journey, we'll build real-world projects to apply what you've learned. By the end of this guide, you'll be a React expert, capable of building cutting-edge web applications.",
+    "author": "Soham"
+}

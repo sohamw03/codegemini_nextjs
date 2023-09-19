@@ -1,0 +1,5 @@
+{
+    "title": "Modern JavaScript: ES6 and Beyond",
+    "content": "JavaScript continues to evolve, and staying updated with the latest features and best practices is essential for every developer. In this in-depth guide, we'll explore modern JavaScript, focusing on ES6 (ECMAScript 2015) and the subsequent versions.\n\nWe'll cover advanced topics such as arrow functions, template literals, destructuring, and the spread operator. You'll learn about asynchronous programming with promises and async/await, making your code more efficient and readable.\n\nAdditionally, we'll discuss module systems like CommonJS and ES6 modules, enabling you to organize and structure your code effectively.\n\nBy the end of this guide, you'll be well-versed in modern JavaScript, equipped to write cleaner, more maintainable code and take advantage of the latest language features.",
+    "author": "Soham"
+}

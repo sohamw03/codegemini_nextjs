@@ -1,0 +1,51 @@
+.main {
+    padding: 1rem 6rem;
+    min-height: 90vh;
+}
+
+.main>* {
+    margin-top: 2rem;
+}
+
+.h2 {
+    text-align: center;
+}
+
+.blogs {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(25%, auto));
+    max-width: 100%;
+    width: var(--max-width);
+    gap: 2rem;
+    margin: auto;
+    margin-top: 3rem;
+}
+
+.blog {
+    padding: 1rem 1.2rem;
+    border-radius: var(--border-radius);
+    background: rgba(var(--card-rgb), 0);
+    border: 2px solid rgba(var(--card-border-rgb), 0.25);
+    transition: background 200ms, border 200ms;
+}
+
+.blog h3 {
+    display: -webkit-box;
+    font-weight: 600;
+    margin-bottom: 0.7rem;
+    text-wrap: balance;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+    overflow: hidden
+}
+
+.blog p {
+    margin: 0;
+    opacity: 0.6;
+    font-size: 0.9rem;
+    line-height: 1.5;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
