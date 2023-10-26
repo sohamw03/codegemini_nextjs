@@ -13,7 +13,11 @@
   margin: 0 2rem;
   list-style: none;
   font-weight: bold;
+}
 
+.nav ul li:active {
+  scale: 0.95;
+  transition: scale 100ms ease;
 }
 
 .activepage {
