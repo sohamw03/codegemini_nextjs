@@ -84,6 +84,10 @@ a {
   text-decoration: none;
 }
 
+textarea {
+  color: #a0aab4 !important;
+}
+
 @media (prefers-color-scheme: dark) {
   html {
     color-scheme: dark;
